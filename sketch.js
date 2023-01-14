@@ -4,7 +4,7 @@ var totalCities = 10;
 var order = [];
 
 var totalPermutations;
-var count = 0;
+var count = 1;
 
 
 var recordDistance;
